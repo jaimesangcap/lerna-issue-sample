@@ -1,0 +1,8 @@
+{
+  "name": "lerna-issue-sample",
+  "private": true,
+  "workspaces": ["packages/*"],
+  "devDependencies": {
+    "lerna": "^2.8.0"
+  }
+}

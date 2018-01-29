@@ -1,0 +1,11 @@
+{
+  "name": "e2e",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "cypress": "^1.4.1",
+    "typescript": "^2.6.2"
+  }
+}
